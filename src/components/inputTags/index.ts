@@ -1,0 +1,1 @@
+export { InputTagsProps, InputTags } from './InputTags';
